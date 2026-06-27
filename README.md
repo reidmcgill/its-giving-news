@@ -1,8 +1,6 @@
 # it's giving news
 
-James and Anne make the morning make sense before the day starts yelling. Markets, tech, politics, sports, culture, local stories, and the weird incentives underneath them. Dry, current, and allergic to cringe.
-
-A daily morning briefing — about 25 minutes, Mondays through Fridays.
+wake up to james and anne word-vomiting the news. like a disheveled little wobbly hog sprinting to the trough, come on down, lil piggie. your daily hot and messy ai slop is served... enjoy ✨
 
 ## Listen & subscribe
 
