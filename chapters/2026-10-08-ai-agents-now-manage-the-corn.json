@@ -1,0 +1,80 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "AI Agents Now Manage the Corn",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 67.94,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 161.55,
+      "title": "First Read: First Read"
+    },
+    {
+      "startTime": 264.28,
+      "title": "The Reid Between Lines: The Reid Between"
+    },
+    {
+      "startTime": 702.93,
+      "title": "Markets & Trades: The Numbers Room"
+    },
+    {
+      "startTime": 881.59,
+      "title": "Local Pulse: The Local Read"
+    },
+    {
+      "startTime": 991.22,
+      "title": "Freshly Hatched: Freshly Hatched"
+    },
+    {
+      "startTime": 1097.41,
+      "title": "Nobody Asked: Nobody Asked"
+    },
+    {
+      "startTime": 1209.14,
+      "title": "I Like Planes: I Like Planes"
+    },
+    {
+      "startTime": 1406.54,
+      "title": "Watt's Good: Watt's Good"
+    },
+    {
+      "startTime": 1508.86,
+      "title": "Culture Maxxing: Culture Maxxing"
+    },
+    {
+      "startTime": 1619.4,
+      "title": "Now Showing: Now Showing"
+    },
+    {
+      "startTime": 1821.55,
+      "title": "Go Sports and Stuff: Go Sports and Stuff"
+    },
+    {
+      "startTime": 1878.54,
+      "title": "Fantasy Football: The fantasy wrinkle"
+    },
+    {
+      "startTime": 1906.08,
+      "title": "Hot Take: Hot Take: Math"
+    },
+    {
+      "startTime": 1951.8,
+      "title": "The Wild Files: The Wild Files"
+    },
+    {
+      "startTime": 1977.71,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1991.08,
+      "title": "Relax Maxxing"
+    }
+  ]
+}

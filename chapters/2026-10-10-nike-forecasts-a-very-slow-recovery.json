@@ -1,0 +1,84 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Nike Forecasts a Very Slow Recovery",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 74.22,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 148.09,
+      "title": "First Read: First Read"
+    },
+    {
+      "startTime": 530.46,
+      "title": "The Reid Between Lines: The Reid Between"
+    },
+    {
+      "startTime": 906.4,
+      "title": "Markets & Trades: The Numbers Room"
+    },
+    {
+      "startTime": 1053.7,
+      "title": "Local Pulse: The Local Read"
+    },
+    {
+      "startTime": 1165.55,
+      "title": "Freshly Hatched: Freshly Hatched"
+    },
+    {
+      "startTime": 1259.13,
+      "title": "Nobody Asked: Nobody Asked"
+    },
+    {
+      "startTime": 1363.8,
+      "title": "I Like Planes: I Like Planes"
+    },
+    {
+      "startTime": 1566.71,
+      "title": "Watt's Good: Watt's Good"
+    },
+    {
+      "startTime": 1819.34,
+      "title": "Hot Enough to Matter: Hot Enough to Matter"
+    },
+    {
+      "startTime": 2007.93,
+      "title": "Culture Maxxing: Culture Maxxing"
+    },
+    {
+      "startTime": 2166.86,
+      "title": "Now Showing: Now Showing"
+    },
+    {
+      "startTime": 2363.71,
+      "title": "Go Sports and Stuff: Go Sports and Stuff"
+    },
+    {
+      "startTime": 2439.14,
+      "title": "Fantasy Football: The fantasy wrinkle"
+    },
+    {
+      "startTime": 2467.32,
+      "title": "Hot Take: Hot Take: Math"
+    },
+    {
+      "startTime": 2514.08,
+      "title": "The Wild Files: The Wild Files"
+    },
+    {
+      "startTime": 2557.33,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2570.7,
+      "title": "Relax Maxxing"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Phishing Now Comes With Prompt Injections",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 71.2,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 161.07,
+      "title": "First Read: First Read"
+    },
+    {
+      "startTime": 463.26,
+      "title": "The Reid Between Lines: The Reid Between"
+    },
+    {
+      "startTime": 685.77,
+      "title": "Markets & Trades: The Numbers Room"
+    },
+    {
+      "startTime": 862.25,
+      "title": "Local Pulse: The Local Read"
+    },
+    {
+      "startTime": 982.07,
+      "title": "Freshly Hatched: Freshly Hatched"
+    },
+    {
+      "startTime": 1091.61,
+      "title": "Nobody Asked: Nobody Asked"
+    },
+    {
+      "startTime": 1214.33,
+      "title": "I Like Planes: I Like Planes"
+    },
+    {
+      "startTime": 1441.67,
+      "title": "Watt's Good: Watt's Good"
+    },
+    {
+      "startTime": 1674.15,
+      "title": "Hot Enough to Matter: Hot Enough to Matter"
+    },
+    {
+      "startTime": 1833.6,
+      "title": "Culture Maxxing: Culture Maxxing"
+    },
+    {
+      "startTime": 2001.59,
+      "title": "Now Showing: Now Showing"
+    },
+    {
+      "startTime": 2145.92,
+      "title": "Go Sports and Stuff: Go Sports and Stuff"
+    },
+    {
+      "startTime": 2224.67,
+      "title": "Hot Take: Hot Take: Math"
+    },
+    {
+      "startTime": 2269.65,
+      "title": "The Wild Files: The Wild Files"
+    },
+    {
+      "startTime": 2283.57,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2296.86,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
