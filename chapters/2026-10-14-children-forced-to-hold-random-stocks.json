@@ -1,0 +1,80 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Children Forced to Hold Random Stocks",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 69.09,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 137.74,
+      "title": "First Read"
+    },
+    {
+      "startTime": 539.52,
+      "title": "The Reid Between Lines"
+    },
+    {
+      "startTime": 727.26,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 946.88,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 1067.47,
+      "title": "Freshly Hatched: Trending on Bluesky"
+    },
+    {
+      "startTime": 1128.0,
+      "title": "Nobody Asked: Trending repo"
+    },
+    {
+      "startTime": 1239.03,
+      "title": "I Like Planes: Airbus Helicopters"
+    },
+    {
+      "startTime": 1485.08,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1667.13,
+      "title": "Hot Enough to Matter"
+    },
+    {
+      "startTime": 1823.44,
+      "title": "Culture Maxxing"
+    },
+    {
+      "startTime": 1879.96,
+      "title": "Now Showing: Your health plan"
+    },
+    {
+      "startTime": 2057.55,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 2147.7,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 2208.38,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 2262.72,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2277.19,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
