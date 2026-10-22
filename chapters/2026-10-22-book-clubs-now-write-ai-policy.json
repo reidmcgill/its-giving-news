@@ -1,0 +1,68 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Book Clubs Now Write AI Policy",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 49.31,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 125.02,
+      "title": "First Read"
+    },
+    {
+      "startTime": 577.27,
+      "title": "Markets & Trades: Reddit (localllama)"
+    },
+    {
+      "startTime": 680.07,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 750.33,
+      "title": "Nobody Asked"
+    },
+    {
+      "startTime": 850.18,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 1055.66,
+      "title": "Watt's Good: Rising Electricity Bills"
+    },
+    {
+      "startTime": 1190.83,
+      "title": "Culture Maxxing"
+    },
+    {
+      "startTime": 1277.27,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 1472.93,
+      "title": "Go Sports and Stuff: Parker's Kitchen"
+    },
+    {
+      "startTime": 1545.23,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1593.74,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 1642.28,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1656.0,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
