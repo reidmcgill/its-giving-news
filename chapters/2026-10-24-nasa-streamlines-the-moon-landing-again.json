@@ -1,0 +1,80 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "NASA Streamlines the Moon Landing Again",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 61.26,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 124.68,
+      "title": "First Read"
+    },
+    {
+      "startTime": 434.87,
+      "title": "The Reid Between Lines"
+    },
+    {
+      "startTime": 569.54,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 718.04,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 798.3,
+      "title": "Freshly Hatched"
+    },
+    {
+      "startTime": 880.19,
+      "title": "Nobody Asked: Trending model"
+    },
+    {
+      "startTime": 988.01,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 1107.18,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1292.14,
+      "title": "Hot Enough to Matter"
+    },
+    {
+      "startTime": 1397.03,
+      "title": "Culture Maxxing"
+    },
+    {
+      "startTime": 1564.08,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 1704.49,
+      "title": "Go Sports and Stuff: The Pittsburgh Steelers"
+    },
+    {
+      "startTime": 1780.25,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1835.11,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 1895.59,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1909.05,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
