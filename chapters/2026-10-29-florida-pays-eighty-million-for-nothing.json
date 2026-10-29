@@ -1,0 +1,72 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Florida Pays Eighty Million for Nothing",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 96.63,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 188.72,
+      "title": "First Read"
+    },
+    {
+      "startTime": 495.23,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 658.22,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 721.74,
+      "title": "Freshly Hatched: Anthropic"
+    },
+    {
+      "startTime": 843.81,
+      "title": "Nobody Asked"
+    },
+    {
+      "startTime": 955.33,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 1114.56,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1159.86,
+      "title": "Hot Enough to Matter: Russia's Rosatom"
+    },
+    {
+      "startTime": 1270.7,
+      "title": "Now Showing: Reddit (localllama)"
+    },
+    {
+      "startTime": 1378.81,
+      "title": "Go Sports and Stuff: The NFL"
+    },
+    {
+      "startTime": 1450.48,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1485.01,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 1527.74,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1541.21,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
