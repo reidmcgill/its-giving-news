@@ -1,0 +1,80 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Ottawa Bets Tax Dollars on Cohere",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 76.52,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 152.71,
+      "title": "First Read: Gold"
+    },
+    {
+      "startTime": 455.64,
+      "title": "The Reid Between Lines"
+    },
+    {
+      "startTime": 698.9,
+      "title": "Markets & Trades: Kalshi"
+    },
+    {
+      "startTime": 828.02,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 888.06,
+      "title": "Freshly Hatched: Reddit (localllama)"
+    },
+    {
+      "startTime": 1026.64,
+      "title": "Nobody Asked: Robot Picks up Othello"
+    },
+    {
+      "startTime": 1174.04,
+      "title": "I Like Planes: Airbus Helicopters"
+    },
+    {
+      "startTime": 1382.98,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1563.15,
+      "title": "Hot Enough to Matter: Exclusive"
+    },
+    {
+      "startTime": 1791.27,
+      "title": "Culture Maxxing: Reddit\u2019s logged-in pivot"
+    },
+    {
+      "startTime": 1860.83,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 1963.35,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 2034.71,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 2078.18,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 2115.94,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2129.45,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
