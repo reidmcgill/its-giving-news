@@ -1,0 +1,76 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Trump Loses a Supreme Court Case",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 86.2,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 156.18,
+      "title": "First Read"
+    },
+    {
+      "startTime": 452.51,
+      "title": "The Reid Between Lines"
+    },
+    {
+      "startTime": 616.59,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 821.54,
+      "title": "Local Pulse: $3.5 billion light rail project"
+    },
+    {
+      "startTime": 930.31,
+      "title": "Freshly Hatched: Trending on Bluesky"
+    },
+    {
+      "startTime": 1047.78,
+      "title": "Nobody Asked: PolicyIK"
+    },
+    {
+      "startTime": 1152.24,
+      "title": "I Like Planes: The Boeing Company Airplanes"
+    },
+    {
+      "startTime": 1397.63,
+      "title": "Watt's Good: Wind farm risks"
+    },
+    {
+      "startTime": 1595.93,
+      "title": "Hot Enough to Matter"
+    },
+    {
+      "startTime": 1692.71,
+      "title": "Culture Maxxing"
+    },
+    {
+      "startTime": 1812.91,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 1954.17,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1998.76,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 2042.08,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2055.35,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
