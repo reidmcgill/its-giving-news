@@ -1,0 +1,72 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Kraft Heinz Sells Coffee To Shrink",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 51.98,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 136.03,
+      "title": "First Read"
+    },
+    {
+      "startTime": 610.96,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 747.89,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 848.43,
+      "title": "Freshly Hatched: Trump\u2019s Energy Revolution"
+    },
+    {
+      "startTime": 936.75,
+      "title": "Nobody Asked"
+    },
+    {
+      "startTime": 1063.81,
+      "title": "I Like Planes: Airbus SAS Airplanes"
+    },
+    {
+      "startTime": 1164.01,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1271.32,
+      "title": "Culture Maxxing: 'OUT'"
+    },
+    {
+      "startTime": 1382.5,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 1529.36,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 1626.26,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1669.49,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 1749.07,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1763.3,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
