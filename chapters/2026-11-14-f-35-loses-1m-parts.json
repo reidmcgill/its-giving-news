@@ -1,0 +1,76 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "F-35 Loses 1M Parts",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 28.61,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 138.3,
+      "title": "First Read"
+    },
+    {
+      "startTime": 514.74,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 619.6,
+      "title": "Local Pulse: Sound Transit"
+    },
+    {
+      "startTime": 751.14,
+      "title": "Freshly Hatched"
+    },
+    {
+      "startTime": 901.63,
+      "title": "Nobody Asked: Trending on Bluesky"
+    },
+    {
+      "startTime": 1026.21,
+      "title": "I Like Planes: Snohomish County Airport"
+    },
+    {
+      "startTime": 1187.76,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1395.72,
+      "title": "Hot Enough to Matter"
+    },
+    {
+      "startTime": 1584.27,
+      "title": "Culture Maxxing"
+    },
+    {
+      "startTime": 1727.52,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 1853.64,
+      "title": "Fantasy Football"
+    },
+    {
+      "startTime": 1903.86,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1989.62,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 2092.24,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 2105.75,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
