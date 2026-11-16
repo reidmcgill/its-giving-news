@@ -1,0 +1,52 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Fable 5.2 Costs 17x More to Fail",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 29.52,
+      "title": "First Read"
+    },
+    {
+      "startTime": 191.09,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 319.77,
+      "title": "Local Pulse: Reminder"
+    },
+    {
+      "startTime": 375.43,
+      "title": "Freshly Hatched"
+    },
+    {
+      "startTime": 455.35,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 576.34,
+      "title": "Culture Maxxing: One compromised MCP server"
+    },
+    {
+      "startTime": 690.85,
+      "title": "Now Showing"
+    },
+    {
+      "startTime": 834.04,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 918.46,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 931.24,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
