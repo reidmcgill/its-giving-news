@@ -1,0 +1,40 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Amazon AI Agents Hunt More Keys",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 28.84,
+      "title": "First Read: Amazon"
+    },
+    {
+      "startTime": 321.45,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 407.52,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 538.1,
+      "title": "Fantasy Football"
+    },
+    {
+      "startTime": 568.88,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 598.22,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 612.84,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
