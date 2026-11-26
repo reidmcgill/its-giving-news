@@ -1,0 +1,84 @@
+{
+  "version": "1.2.0",
+  "author": "James & Anne",
+  "title": "Macy's 100th Parade Loses to Wind",
+  "podcastName": "it's giving news",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 27.21,
+      "title": "Today, in Like, History\u2026"
+    },
+    {
+      "startTime": 148.34,
+      "title": "First Read"
+    },
+    {
+      "startTime": 382.64,
+      "title": "The Reid Between Lines"
+    },
+    {
+      "startTime": 530.03,
+      "title": "Markets & Trades"
+    },
+    {
+      "startTime": 738.73,
+      "title": "Local Pulse"
+    },
+    {
+      "startTime": 862.47,
+      "title": "Freshly Hatched"
+    },
+    {
+      "startTime": 1036.13,
+      "title": "Nobody Asked"
+    },
+    {
+      "startTime": 1123.52,
+      "title": "I Like Planes"
+    },
+    {
+      "startTime": 1272.51,
+      "title": "Watt's Good"
+    },
+    {
+      "startTime": 1418.85,
+      "title": "Hot Enough to Matter"
+    },
+    {
+      "startTime": 1539.62,
+      "title": "Culture Maxxing: Ramayana"
+    },
+    {
+      "startTime": 1639.03,
+      "title": "Now Showing: AIRIS"
+    },
+    {
+      "startTime": 1694.08,
+      "title": "Go Sports and Stuff"
+    },
+    {
+      "startTime": 1811.59,
+      "title": "Fantasy Football"
+    },
+    {
+      "startTime": 1840.58,
+      "title": "Hot Take: Math"
+    },
+    {
+      "startTime": 1893.48,
+      "title": "The Wild Files"
+    },
+    {
+      "startTime": 1931.49,
+      "title": "And That's the Read"
+    },
+    {
+      "startTime": 1945.59,
+      "title": "Relax Maxxing"
+    }
+  ]
+}
